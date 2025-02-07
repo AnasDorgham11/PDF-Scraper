@@ -46,8 +46,8 @@ A PDF scraper tool designed to extract titles, lists, tables, and images from PD
    ```
 
    <br />
-5. **Find scraped matches**<br />
-   You can find scraped matches in the folder "matches" which is created automatically after running the script and entering the date in the format ```MM/DD/YYYY``` where ```MM``` is the month, ```DD``` is the day and ```YYYY``` is the year.
+5. **Find scraped data**<br />
+   You can find scraped data in a folder named as the name of the PDF file.
 
    <br />
 6. **<mark>Optional:</mark> Deactivating the Virtual Environment**<br />
