@@ -1,0 +1,7 @@
+pdfminer.six
+PyMuPDF
+camelot-py[cv]
+ghostscript
+pandas
+python-docx
+
