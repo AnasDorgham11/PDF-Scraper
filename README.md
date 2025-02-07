@@ -50,7 +50,7 @@ A PDF scraper tool designed to extract titles, lists, tables, and images from PD
    You can find scraped data in a folder named as the name of the PDF file.
 
    <br />
-6. **<mark>Optional:</mark> Deactivating the Virtual Environment**<br />
+6. **Deactivate the Virtual Environment**<br />
    When you're done, deactivate the virtual environment, by running:
    ```deactivate```
 
